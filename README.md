@@ -11,7 +11,7 @@ The aim of this study is develop an expert adviser based on parabolic SAR indica
 
 This alteration on code resulted in a small improvement on trades:
 
-'bool compra_SAR = velas[1].high > SARValue && mm_Buffer[0]>mm_Buffer[x] && close_atual<Limite;'
+bool compra_SAR = velas[1].high > SARValue && mm_Buffer[0]>mm_Buffer[x] && close_atual<Limite;
 
 x corresponding the period of the candle, the distance between the current candle (i.e., mm_Buffer[0]) and previous candle.
 
