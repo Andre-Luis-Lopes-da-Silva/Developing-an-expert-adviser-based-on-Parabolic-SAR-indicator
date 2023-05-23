@@ -12,6 +12,7 @@ x corresponding the period of the candle, the distance between the current candl
 
 See Table 6. 
 
+Table 6. Results of the expert adviser in BBAS3 (bank sector) during 2018-01-01 until 2023-06-09 using parabolic SAR and smoothed moving average with 21 periods. Only buys made.
 ![Table 6](https://github.com/Andre-Luis-Lopes-da-Silva/Developing-an-expert-adviser-based-on-Parabolic-SAR-indicator/assets/78765404/0a3fc123-40dc-4b39-a8b9-176f69301fcb)
 
 
